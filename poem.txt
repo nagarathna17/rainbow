@@ -3,5 +3,6 @@ the rainbow
 purple
 blue 
 red
+pink
 blue
 black
